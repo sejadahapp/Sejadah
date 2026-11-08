@@ -15,11 +15,17 @@ Sejadah ialah aplikasi Android percuma untuk menjaga solat pada waktunya, dengan
 
 ## Muat turun
 
-Ambil fail APK terkini di halaman **Releases**, kemudian buka fail itu di telefon Android untuk memasang (benarkan pemasangan dari sumber ini jika diminta).
+**Muat turun terus (Android):** https://github.com/sejadahapp/sejadah/releases/latest/download/Sejadah.apk
+
+1. Ketik pautan di atas di telefon Android.
+2. Bila muat turun selesai, buka fail **Sejadah.apk**.
+3. Jika telefon bertanya, benarkan **"Pasang app tidak diketahui"**, kemudian tekan **Pasang**.
+
+Semua versi dan kod sumber ada di halaman **Releases**.
 
 ## Semakan kandungan
 
-Sejadah disusun oleh orang awam, bukan pihak berautoriti agama. Sumber setiap bacaan dinyatakan di bawahnya. Jika anda menjumpai kesilapan pada lafaz, terjemahan atau rujukan, gunakan butang **Lapor kesilapan** dalam Tentang & sumber, e-mel **sejadah.app@gmail.com**, atau buka *Issue* di sini.
+Sejadah disusun oleh orang awam, bukan pihak berautoriti agama. Sumber setiap bacaan dinyatakan di bawahnya. Jika anda menjumpai kesilapan pada lafaz, terjemahan atau rujukan, gunakan **Tetapan › Bantuan › Lapor** dalam app, e-mel **sejadah.app@gmail.com**, atau buka *Issue* di sini.
 
 ## Sumber dan lesen
 
@@ -32,4 +38,4 @@ Sejadah disusun oleh orang awam, bukan pihak berautoriti agama. Sumber setiap ba
 
 ---
 
-*English:* Sejadah is a free Android app for praying on time, with the dhikr and du'a after prayer. No account, no ads, no data collection. JAKIM prayer times for Malaysia's 60 zones, reminders before a prayer's time ends, Full and Short wird with sources, your own arrangement of the wird, a prayer record, and travel (jamak) support. Download the APK from **Releases**. Put together by a lay person; please report any mistake. Source code under GPL-3.0.
+*English:* Sejadah is a free Android app for praying on time, with the dhikr and du'a after prayer. No account, no ads, no data collection. JAKIM prayer times for Malaysia's 60 zones, reminders before a prayer's time ends, Full and Short wird with sources, your own arrangement of the wird, a prayer record, and travel (jamak) support. Direct download: https://github.com/sejadahapp/sejadah/releases/latest/download/Sejadah.apk. Put together by a lay person; please report any mistake. Source code under GPL-3.0.
